@@ -1,1 +1,13 @@
 # Write your code here!
+game_hash = {
+  :home => {
+    :team_name => "name",
+    :colors => [],
+    :players
+  },
+  :away => {
+    :team_name,
+    :colors,
+    :players
+  }
+}
